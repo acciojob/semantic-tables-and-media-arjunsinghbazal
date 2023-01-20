@@ -1,2 +1,10 @@
-
+#tab{
+    border: 1px solid;
+    border-color: rgb(173, 33, 33);
+    border-radius: 1px;
+    width: 200px;
+}
+thead,th, td {
+    border: 1px solid #ddd;
+  }
 /* Your CSS Code here. */
